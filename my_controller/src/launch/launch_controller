@@ -1,0 +1,7 @@
+<launch>
+<node pkg="my_controller"
+      type="find_license_plates.py"
+      name="find_license_plates"
+      output="screen">
+</node> 
+</launch>
